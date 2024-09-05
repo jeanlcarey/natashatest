@@ -1,0 +1,320 @@
+<xml>
+  <FileInfo>
+    <Prog>DA-FormMaker</Prog>
+    <SoftwareVersion>4.10.7</SoftwareVersion>
+    <Version>2</Version>
+  </FileInfo>
+  <FileContent>
+    <edtFormTitel>Model Release</edtFormTitel>
+    <memoEinleitung>I hereby assign full copyright of these photographs to the above-mentioned photographer (and the related 
+representatives and assigns) together with the right of reproduction either wholly or in part. 
+
+I grant to the Photographer or licensees or assignees the permission to can the above-mentioned 
+photographs either separately or together, either wholly or in part, the perpetual and  irrevocable and 
+unrestricted right to use and publish video and/or photographs of me, or where I may be included for 
+editorial trade, product advertising and such other fashion /business purpose in any manner and medium. 
+The Photographer and licensees or assignees may have unrestricted use of these for whatever purpose, 
+including advertising, with any retouching or alteration without restriction. 
+
+I agree that the above mentioned photographs and any reproductions shall be deemed to represent an 
+imaginary person, and further agree that the Photographer or any person authorized by or acting on his or 
+her behalf may use the above mentioned photographs or any reproductions of them for any advertising 
+purposes or for the purpose of illustrating any wording, and agree that no such wording shall be 
+considered to be attributed to me personally unless my name is used. 
+
+Provided my name is not mentioned in connection with any other statement or wording which may be 
+attributed to me personally, I undertake not to Prosecute or to institute proceedings, claims or demands 
+against either the Photographer or his or her agents in respect of any usage of the above mentioned 
+photographs. I hereby release the photographer named above from all claims and liability relating to 
+images, video or photographs taken of me. 
+
+I have read this model release form carefully and fully understand its meanings and implications.</memoEinleitung>
+    <memoTextEnde>
+    </memoTextEnde>
+    <edtTabWidth>80%</edtTabWidth>
+    <cboTabAusrichtung>0</cboTabAusrichtung>
+    <chkPrintButton>False</chkPrintButton>
+    <chkResetButton>False</chkResetButton>
+    <edtPrint>Print</edtPrint>
+    <edtSendenButton>Send</edtSendenButton>
+    <edtCancelButton>Reset</edtCancelButton>
+    <ComboFormType>2</ComboFormType>
+    <cboFontHeader>Arial,Helvetica,Geneva</cboFontHeader>
+    <edtSizeHeader>12</edtSizeHeader>
+    <cboFontForm>Arial,Helvetica,Geneva</cboFontForm>
+    <edtSizeForm>10</edtSizeForm>
+    <edtBGPicture>
+    </edtBGPicture>
+    <edtHGColor>FFFFFF</edtHGColor>
+    <edtHeaderColor>000000</edtHeaderColor>
+    <edtTextColor>000080</edtTextColor>
+    <edtTabColor>F2F2F2</edtTabColor>
+    <cboStandardButton>True</cboStandardButton>
+    <edtHintergrundButton>a0a0a4</edtHintergrundButton>
+    <edtFarbeButton>000000</edtFarbeButton>
+    <cboRahmenButton>solid</cboRahmenButton>
+    <edtStaerkeButton>1</edtStaerkeButton>
+    <cboStaerkeRahmen>px</cboStaerkeRahmen>
+    <cboStandardFeld>True</cboStandardFeld>
+    <edtHGFormField>a0a0a4</edtHGFormField>
+    <edtColorFormField>000000</edtColorFormField>
+    <edtRahmenFormField>solid</edtRahmenFormField>
+    <edtStaerkeFormField>1</edtStaerkeFormField>
+    <cboRahmenFormField>px</cboRahmenFormField>
+    <cboFontFormField>Arial,Helvetiva,Geneva</cboFontFormField>
+    <edtSizeFormField>12</edtSizeFormField>
+    <cboSchriftFormEinheit>px</cboSchriftFormEinheit>
+    <edtFontColorFormField>000000</edtFontColorFormField>
+    <Bootstrap_edtHGColor>f8f9fa</Bootstrap_edtHGColor>
+    <Bootstrap_edtHeaderColor>000000</Bootstrap_edtHeaderColor>
+    <Bootstrap_edtTextColor>000000</Bootstrap_edtTextColor>
+    <Bootstrap_cboFontHeader>"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"</Bootstrap_cboFontHeader>
+    <Bootstrap_cboFontForm>"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"</Bootstrap_cboFontForm>
+    <Bootstrap_edtSizeHeader>18</Bootstrap_edtSizeHeader>
+    <Bootstrap_edtSizeForm>12</Bootstrap_edtSizeForm>
+    <BootstrapFormFieldBackground>FFFFFF</BootstrapFormFieldBackground>
+    <Bootstrap_SpinBoxLeftColumn>2</Bootstrap_SpinBoxLeftColumn>
+    <Bootstrap_ComboFormFieldSize>0</Bootstrap_ComboFormFieldSize>
+    <Bootstrap_CheckBoxSendButton>True</Bootstrap_CheckBoxSendButton>
+    <Bootstrap_SendButtonFontColorStandard>FFFFFF</Bootstrap_SendButtonFontColorStandard>
+    <Bootstrap_SendButtonBackgroundStandard>016080</Bootstrap_SendButtonBackgroundStandard>
+    <Bootstrap_SendButtonFontMouseOver>FFFFFF</Bootstrap_SendButtonFontMouseOver>
+    <Bootstrap_SendButtonBackgroundMouseOver>00526E</Bootstrap_SendButtonBackgroundMouseOver>
+    <Bootstrap_CheckBoxResetButton>True</Bootstrap_CheckBoxResetButton>
+    <Bootstrap_ResetButtonFontColorStandard>FFFFFF</Bootstrap_ResetButtonFontColorStandard>
+    <Bootstrap_ResetButtonBackgroundStandard>AB1313</Bootstrap_ResetButtonBackgroundStandard>
+    <Bootstrap_ResetButtonFontMouseOver>FFFFFF</Bootstrap_ResetButtonFontMouseOver>
+    <Bootstrap_ResetButtonBackgroundMouseOver>8A0606</Bootstrap_ResetButtonBackgroundMouseOver>
+    <Bootstrap_CheckBoxPrintButton>True</Bootstrap_CheckBoxPrintButton>
+    <Bootstrap_PrintButtonFontColorStandard>FFFFFF</Bootstrap_PrintButtonFontColorStandard>
+    <Bootstrap_PrintButtonBackgroundStandard>707070</Bootstrap_PrintButtonBackgroundStandard>
+    <Bootstrap_PrintButtonFontMouseOver>FFFFFF</Bootstrap_PrintButtonFontMouseOver>
+    <Bootstrap_PrintButtonBackgroundMouseOver>4A4A4A</Bootstrap_PrintButtonBackgroundMouseOver>
+    <edtEMail>jeanlcarey@gmail.com</edtEMail>
+    <edtEMail1>
+    </edtEMail1>
+    <edtEMail2>
+    </edtEMail2>
+    <cbCryptAddr>True</cbCryptAddr>
+    <cboMailFormat>html</cboMailFormat>
+    <edtBetreff>model release</edtBetreff>
+    <edtTitel>model release</edtTitel>
+    <edtDanke>https://www.google.com/</edtDanke>
+    <chkAbsender>False</chkAbsender>
+    <cboTarget>_self</cboTarget>
+    <ip_informationen>True</ip_informationen>
+    <HTMLExportFileName>
+    </HTMLExportFileName>
+    <IPErrorPage>
+    </IPErrorPage>
+    <FileErrorPage>
+    </FileErrorPage>
+    <CaptchaErrorPage>
+    </CaptchaErrorPage>
+    <CaptchaErrorMessage>Wrong input in spam proctecion field. Please check your input.</CaptchaErrorMessage>
+    <encoding>utf-8</encoding>
+    <HtmlTemplate>
+    </HtmlTemplate>
+    <HtmlTemplateAlt>
+    </HtmlTemplateAlt>
+    <hide_empty_fields>False</hide_empty_fields>
+    <kopie_absender>True</kopie_absender>
+    <HtmlTemplateBootstrap>
+    </HtmlTemplateBootstrap>
+    <HtmlTemplateBootstrapAlt>
+    </HtmlTemplateBootstrapAlt>
+    <ProjectSettings_author>
+    </ProjectSettings_author>
+    <ProjectSettings_comment>
+    </ProjectSettings_comment>
+    <ProjectSettings_title>
+    </ProjectSettings_title>
+    <ProjectSettings_company>
+    </ProjectSettings_company>
+    <ProjectSettings_url>http://</ProjectSettings_url>
+    <CalendarDesign_cboFont>Arial,Helvetica,Geneva</CalendarDesign_cboFont>
+    <CalendarDesign_edtFontSize>10</CalendarDesign_edtFontSize>
+    <CalendarDesign_edtTextColor>000000</CalendarDesign_edtTextColor>
+    <CalendarDesign_edtBGColorDay>B6CDE9</CalendarDesign_edtBGColorDay>
+    <CalendarDesign_edtBGColorHeader>CCCCCC</CalendarDesign_edtBGColorHeader>
+    <CalendarDesign_edtTextColorHeader>000000</CalendarDesign_edtTextColorHeader>
+    <CalendarDesign_edtBGColorCal>EEEEEE</CalendarDesign_edtBGColorCal>
+    <CalendarDesign_edtBorderSize>1</CalendarDesign_edtBorderSize>
+    <CalendarDesign_edtBorderType>solid</CalendarDesign_edtBorderType>
+    <CalendarDesign_edtBorderColor>000000</CalendarDesign_edtBorderColor>
+    <CalendarDesign_cboDateFormat>0</CalendarDesign_cboDateFormat>
+    <CalendarLanguage>en</CalendarLanguage>
+    <chkCaptcha>False</chkCaptcha>
+    <edtCaptchaText1>Spam protection</edtCaptchaText1>
+    <memoMailtext>
+    </memoMailtext>
+    <MemoMailtextEnd>
+    </MemoMailtextEnd>
+    <cboFormMailer>https://www.ekiwi-scripts.de/form/v4/formmail_v4.php</cboFormMailer>
+    <HiddenField>False</HiddenField>
+    <FtpProfile>
+    </FtpProfile>
+    <FtpUploadFileName>form.html</FtpUploadFileName>
+    <FtpFolder>
+    </FtpFolder>
+    <UseLabelInMail>True</UseLabelInMail>
+    <Csv>False</Csv>
+    <EdtCaptchaErrorMsg>Error: Captcha input is incorrect.</EdtCaptchaErrorMsg>
+    <CaptchaAjax>False</CaptchaAjax>
+    <MarkMandatory>False</MarkMandatory>
+    <MarkMandatoryStr>*</MarkMandatoryStr>
+    <TransparentBackground>False</TransparentBackground>
+    <FormName>DAFORM</FormName>
+    <LinkBootstrap>https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/</LinkBootstrap>
+    <LinkJQuery>https://code.jquery.com/jquery-1.11.2.min.js</LinkJQuery>
+    <LinkJQueryUI>https://code.jquery.com/ui/1.11.2/jquery-ui.min.js</LinkJQueryUI>
+    <LinkJQueryUICss>https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css</LinkJQueryUICss>
+    <LinkW3CSS>https://www.w3schools.com/lib/w3.css</LinkW3CSS>
+    <HeadCode>
+    </HeadCode>
+    <FootCode>
+    </FootCode>
+    <TimeFieldDesign_BackgroundColor>ffffff</TimeFieldDesign_BackgroundColor>
+    <TimeFieldDesign_BorderColor>000000</TimeFieldDesign_BorderColor>
+    <TimeFieldDesign_BorderSize>1</TimeFieldDesign_BorderSize>
+    <TimeFieldDesign_FontColor>111111</TimeFieldDesign_FontColor>
+    <TimeFieldDesign_FontHoverColor>ffffff</TimeFieldDesign_FontHoverColor>
+    <TimeFieldDesign_SelectionColor>2196f3</TimeFieldDesign_SelectionColor>
+    <TimeFieldDesign_AdditionalString>
+    </TimeFieldDesign_AdditionalString>
+    <TimeFieldDesign_AMPM>False</TimeFieldDesign_AMPM>
+    <AttachAsPdf>False</AttachAsPdf>
+    <w3css>
+      <FontHeading>Segoe UI,Arial,sans-serif</FontHeading>
+      <FontText>Segoe UI,Arial,sans-serif</FontText>
+      <HeadingSize>30</HeadingSize>
+      <TextColor>w3-black</TextColor>
+      <TextSize>12</TextSize>
+      <BackgroundColor>w3-white</BackgroundColor>
+      <BackgroundColorPage>ffffff</BackgroundColorPage>
+      <HeadlineColor>w3-blue</HeadlineColor>
+      <HeadlineBackground>w3-sand</HeadlineBackground>
+      <FormBorderType>5</FormBorderType>
+      <FormFieldStyle>0</FormFieldStyle>
+      <FieldBackgroundColor>w3-white</FieldBackgroundColor>
+      <ButtonSendColor>w3-blue-grey</ButtonSendColor>
+      <ButtonResetColor>w3-red</ButtonResetColor>
+      <ButtonPrintColor>w3-light-grey</ButtonPrintColor>
+      <HtmlTemplateW3CSS>
+      </HtmlTemplateW3CSS>
+    </w3css>
+    <bootstrap>
+      <BorderRadius>4</BorderRadius>
+      <BorderStyle>solid</BorderStyle>
+      <BorderWidth>1</BorderWidth>
+      <ChkCustom>False</ChkCustom>
+      <ColorActiveFieldBorder>66AFE9</ColorActiveFieldBorder>
+      <ColorFieldBorder>CCCCCC</ColorFieldBorder>
+      <ColorInnerGlow>000000</ColorInnerGlow>
+      <ColorOuterGlow>66afe9</ColorOuterGlow>
+      <InnerGlowTrans>8</InnerGlowTrans>
+      <InnerGlowWidth>1</InnerGlowWidth>
+      <OuterGlowTrans>60</OuterGlowTrans>
+      <OuterGlowWidth>8</OuterGlowWidth>
+      <ResponsiveOptimization>2</ResponsiveOptimization>
+    </bootstrap>
+    <ExportWizardData>
+      <SelectedOption>0</SelectedOption>
+      <StandardIFrame>
+        <Width>100%</Width>
+        <Height>800</Height>
+        <Responsive>True</Responsive>
+        <Frameborder>False</Frameborder>
+        <Name>iframe</Name>
+        <FileName>form.html</FileName>
+        <Scrollbars>0</Scrollbars>
+        <ExportPath>
+        </ExportPath>
+        <CompressHtml>False</CompressHtml>
+        <Transparent>False</Transparent>
+      </StandardIFrame>
+      <EmbeddedIFrame>
+        <Width>100%</Width>
+        <Height>800</Height>
+        <Responsive>True</Responsive>
+        <Frameborder>False</Frameborder>
+        <Name>iframe</Name>
+        <FileName>form.html</FileName>
+        <Scrollbars>0</Scrollbars>
+        <ExportPath>
+        </ExportPath>
+        <CompressHtml>False</CompressHtml>
+        <Transparent>False</Transparent>
+      </EmbeddedIFrame>
+    </ExportWizardData>
+    <UploadServiceData>
+      <UploadID>da732df0-17d8-43b9-ad43-f31667c612b8</UploadID>
+    </UploadServiceData>
+    <ItemList>
+      <forms>
+        <typ>TEinzField</typ>
+        <name>Full_Name</name>
+        <beschriftung>Full Name:</beschriftung>
+        <beschriftungnach>
+        </beschriftungnach>
+        <pflicht>True</pflicht>
+        <Cookie>False</Cookie>
+        <meldung>name is required</meldung>
+        <Guid>2ba32999-0454-4b07-848b-22571d2e4ccb</Guid>
+        <CheckboxField>False</CheckboxField>
+        <groesse>15</groesse>
+        <maxLaenge>100</maxLaenge>
+        <vorgabeloeschen>False</vorgabeloeschen>
+        <pflichttyp>0</pflichttyp>
+        <mindestLaenge>
+        </mindestLaenge>
+        <vorgabewert>
+        </vorgabewert>
+      </forms>
+      <forms>
+        <typ>TCalField</typ>
+        <name>Date</name>
+        <beschriftung>Date:</beschriftung>
+        <beschriftungnach>
+        </beschriftungnach>
+        <pflicht>True</pflicht>
+        <Cookie>False</Cookie>
+        <meldung>date is required</meldung>
+        <Guid>10995f2e-c7cd-4c25-b9eb-48e1cb06673a</Guid>
+        <CheckboxField>False</CheckboxField>
+        <vorgabewert>
+        </vorgabewert>
+        <groesse>
+        </groesse>
+        <maxLaenge>
+        </maxLaenge>
+        <vorgabeloeschen>False</vorgabeloeschen>
+        <StartYear>2021</StartYear>
+        <EndYear>2045</EndYear>
+      </forms>
+      <forms>
+        <typ>TSignatureField</typ>
+        <name>Signature</name>
+        <beschriftung>Signature:</beschriftung>
+        <beschriftungnach>
+        </beschriftungnach>
+        <pflicht>True</pflicht>
+        <Cookie>False</Cookie>
+        <meldung>signature is required</meldung>
+        <Guid>fb09d3d5-4b60-41e2-b6a0-4ccf253cb666</Guid>
+        <CheckboxField>False</CheckboxField>
+        <Height>175px</Height>
+        <Width>100%</Width>
+        <PenColor>000000</PenColor>
+        <PenSize>5</PenSize>
+        <BackgroundColor>FFFFFF</BackgroundColor>
+        <BorderColor>CCCCCC</BorderColor>
+        <LineWidth>5</LineWidth>
+        <ClearButton>True</ClearButton>
+        <ClearButtonLabel>Clear</ClearButtonLabel>
+        <BorderSize>1</BorderSize>
+        <BorderType>solid</BorderType>
+      </forms>
+    </ItemList>
+  </FileContent>
+</xml>
