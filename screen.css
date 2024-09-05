@@ -1,0 +1,138 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+p, h1, h2, h3, h4, h5, h6 {
+	margin:0;
+	padding:0;
+	padding-bottom: 8px;
+}
+
+body {
+	background-image:url(../images/whiteBg.jpg);	
+}
+
+#wrapper {
+	width:1060px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:0px;
+	text-align:left;
+}
+
+#container {
+	margin-top:40px;
+	width: 1020px;
+	height: 614px;
+	background-image:url(../images/testbg.jpg);
+}
+
+#header {
+	width: 1020px;
+	height: 90px;
+	float: left;
+	background-image:url(../images/rightCorner.png);
+	background-repeat:no-repeat;
+	background-position: top right;	
+}
+
+#logo {
+	float: left;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#nameCnt {
+	float: left;	
+	padding-top: 25px;
+}
+
+#tagline {
+	padding-top: 25px;
+	padding-right: 30px;
+	float: right;
+}
+
+#images {
+	width: 1020px;
+	height: 459px;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background:url(../images/white30bg.png);
+	margin: 0px;
+}
+
+/* .slideshow { height: 232px; width: 232px; } */
+
+.slideshow {
+	height: 459px;
+	width: 1020px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.slideshow img { display: none }
+.slideshow img.first { display: block }
+.slideshow img { margin: 0px; padding: 0px; border: none; }
+
+#footer {
+	width: 1020px;
+	height: 35px;
+	float: left;
+	background-image:url(../images/leftCorner.png);
+	background-repeat:no-repeat;
+	background-position: bottom left;	
+	text-align:center;
+	padding-top: 10px;
+}
+
+#controls {
+	width: 1020px;
+	height: 40px;
+	float: left;
+	text-align:center;
+	padding-top: 10px;
+}
+#controls img {
+	vertical-align:middle;
+	border: 0px;
+}
+/* type */
+.name {
+	font-family: AppleGothic, Helvetica, sans-serif;
+	font-size: 22px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+
+.name2 {
+	font-family: AppleGothic, Helvetica, sans-serif;
+	font-size: 13px;
+	letter-spacing:2px;
+	text-transform: uppercase;
+	padding-left: 130px;
+}
+
+.footerTxt {
+	font-family: AppleGothic, Helvetica, sans-serif;
+	font-size: 17px;
+	letter-spacing: 2px;
+	padding-top: 8px;
+}
+
+.gray {
+	color: #363636;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.green {
+	color: #d7df21;	
+}
